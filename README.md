@@ -1,6 +1,7 @@
 #🤖 Machine Learning App 
+'''
 This is the machine learning app
-
+'''
 
 ## Demo App
 
