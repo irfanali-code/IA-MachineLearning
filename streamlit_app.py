@@ -3,4 +3,4 @@ import pandas as pd
 
 st.title('Machine Learning App')
 
-st.write('Hello world!')
+st.info('Machine Learning Model')
